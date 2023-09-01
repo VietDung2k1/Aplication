@@ -14,7 +14,6 @@
 #include "task_list.h"
 #include "task_display.h"
 #include "view_render.h"
-
 #include "buzzer.h"
 
 #include <math.h>
