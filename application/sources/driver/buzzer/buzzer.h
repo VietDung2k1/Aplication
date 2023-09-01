@@ -179,7 +179,7 @@ static const Tone_TypeDef tones_merryChrismast[] = {
 // G6 G6 G6 F6 D6 C5 C5
 // G6 G6 G6 D6 F6
 
-static const Tone_TypeDef tones_nhucobacho[] = {
+static const Tone_TypeDef tones_quockhanh[] = {
 	{1760, 9}, // A6
 	{   0, 9}, // x1
 	{2093, 9}, // C7
